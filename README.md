@@ -4,7 +4,7 @@ A gentle introduction to generative modeling using a variational autoencoders an
 
 ---
 ## Generated images produced by the VAE 
-![vae-img](training_images\vae-training-gen-images-01\image_at_epoch_0010.png)
+![vae-img](training_images/vae-training-gen-images-01/image_at_epoch_0010.png)
 
 ---
 ## Generated images during model training for DCGAN  
